@@ -1,1 +1,12 @@
-
+name: FLAG_SUBMISSION
+description: "I'm gonna check the flag is correct ?"
+title: "Flag Submission"
+labels: ["solver"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Enter your flag 🚩
+      placeholder: flag{xxx_xxx}
+    validations:
+      required: true
