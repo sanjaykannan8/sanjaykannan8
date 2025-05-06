@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello! I'm Kannan K, a passionate tech enthusiast with a keen interest in cybersecurity and artificial intelligence. As a self-made programmer, I thrive on mastering new skills and taking on challenges that push my boundaries. My journey so far has been a blend of hands-on projects, continuous learning, and staying updated with the latest trends in technology
 
+## Wanna See My Portfolio Website?
+  There's a catch you have to decode this text and
+  create an [ISSUE](https://github.com/sanjaykannan8/sanjaykannan8/issues/new?template=Flag_submit.yml)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kannan-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykannan715@gmail.com) 
