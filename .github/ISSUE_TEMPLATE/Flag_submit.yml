@@ -1,6 +1,6 @@
 name: FLAG_SUBMISSION
 description: "I'm gonna check the flag is correct ?"
-#title: "Flag Submission"
+title: "Flag Submission"
 labels: ["solver"]
 body:
   - type: input
