@@ -4,7 +4,7 @@ I build things: Cyber Gym (an AI-assisted hacking lab), 3XPL0IT3RS (a private se
 Currently exploring AI browser security and agentic AI attack surfaces : the space where LLMs meet offensive security. That's where I'm spending most of my time right now.
 If you're working on something in security or building something interesting, I'm open to talking.
 
-[My Portfolio Site](https://sanjaykannan8.github.io/Kannan-portfolio/)
+View my Portfolio @ https://www.0xkannan.ninja/ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kannan-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykannan715@gmail.com) 
