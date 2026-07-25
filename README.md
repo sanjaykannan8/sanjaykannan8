@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-year CS student in Chennai.found vulnerabilities in Anthropic's systems,builds secure & scalable systems and run the OWASP chapter at my college.
+Third-year CS student in Chennai.found vulnerabilities in Anthropic's systems,builds secure & scalable systems and run the OWASP chapter at my college.
 I build things: Cyber Gym (an AI-assisted hacking lab), 3XPL0IT3RS (a private security community for students), production microservices on Kubernetes that actually went live.
 Currently exploring AI browser security and agentic AI attack surfaces : the space where LLMs meet offensive security. That's where I'm spending most of my time right now.
 If you're working on something in security or building something interesting, I'm open to talking.
