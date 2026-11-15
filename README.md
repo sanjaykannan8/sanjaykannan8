@@ -1,10 +1,17 @@
 # 💫 About Me:
-Third-year CS student in Chennai.found vulnerabilities in Anthropic's systems,builds secure & scalable systems and run the OWASP chapter at my college.
-I build things: Cyber Gym (an AI-assisted hacking lab), 3XPL0IT3RS (a private security community for students), production microservices on Kubernetes that actually went live.
-Currently exploring AI browser security and agentic AI attack surfaces : the space where LLMs meet offensive security. That's where I'm spending most of my time right now.
-If you're working on something in security or building something interesting, I'm open to talking.
+I’m a pre-final year student at Sri Sairam Engineering College, and I don’t build things to pad a resume. I build because I love it.
 
-View my Portfolio @ [https://www.0xkannan.ninja/](https://portfolio-five-mocha-86.vercel.app/) 
+What pulls me in is making systems that are fast, scalable, and hard to break. That’s why I’m as comfortable tuning an asyncpg connection pool until a service holds 1000+ requests/sec as I am running a pentest on that same service to see how it fails. I like seeing a system from both sides, the builder’s and the attacker’s.
+
+That curiosity has taken me into things most people meet much later: PKI and mutual-auth VPNs, event-driven architectures with Kafka, Flink, and Temporal, voice agents served on vLLM, and agentic AI pipelines. It’s also led me to responsibly disclose a vulnerability to Anthropic’s VDP, to win hackathons at AWS, RIT, and Think2Impact, and to run the OWASP chapter and a 200+ member security community at my college.
+
+I share what I learn on the way: the architecture decisions, the things that broke, and the security lessons. Scroll through my posts and you’ll see how I think, not just what I’ve built.
+
+If you love building secure, scalable systems too, let’s talk.
+
+
+
+View my Portfolio @ [kannan.is-cool.dev/](https://kannan.is-cool.dev/) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kannan-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykannan715@gmail.com) 
